@@ -42,3 +42,4 @@ A Message Bus is a combination of a common data model, a common command set, and
 ## Reference
 * https://aws.amazon.com/message-queue/
 * https://medium.com/@ranjeetvimal/message-queues-10-reasons-to-use-message-queuing-1923277a2e7f
+* https://youtu.be/oUJbuFMyBDk
